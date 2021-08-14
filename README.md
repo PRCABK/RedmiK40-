@@ -20,5 +20,6 @@
 |ShapeShiftOS|[下载地址](https://github.com/PRCABK/RedmiK40-/blob/7052a04779be5e9b123e88350a246425fac99aa7/ShapeShiftOS/Redmi%20K40.md)|
 |stagos|[下载地址](https://github.com/PRCABK/RedmiK40-/blob/7052a04779be5e9b123e88350a246425fac99aa7/stagos/Redmi%20K40.md)|
 |syberia|[下载地址](https://github.com/PRCABK/RedmiK40-/blob/7052a04779be5e9b123e88350a246425fac99aa7/syberia/Redmi%20K40.md)|
+|Evolutionos|[下载地址](https://github.com/PRCABK/RedmiK40-/blob/ce6e85ed06d62afba33c44113a351eaedd76a834/Evolutionos/Redmi%20K40.md)|
 此系统仅供个人学习、研究之用,请勿用于商业用途。
 
