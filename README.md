@@ -3,7 +3,7 @@
  ---- 
 |类原生|点击下载|
 | :----: |  :----: |
-|AEX| [下载地址](https://github.com/PRCABK/RedmiK40-/blob/be8f8f93a4acf00314d4a990d3ba83f07a667803/AEX/Redmi%20K40.md)|
+|AEX| [下载地址](https://github.com/PRCABK/RedmiK40-/blob/01e168fe07d1cfe544d032db34a4f8e12fef3437/Rom/AEX/Redmi%20K40.md)|
 |AICP| [下载地址](https://github.com/PRCABK/RedmiK40-/blob/7052a04779be5e9b123e88350a246425fac99aa7/AICP/Redmi%20K40.md)|
 |aosip| [下载地址](https://github.com/PRCABK/RedmiK40-/blob/7052a04779be5e9b123e88350a246425fac99aa7/aosip/Redmi%20K40.md)|
 |arrow|[下载地址](https://github.com/PRCABK/RedmiK40-/blob/7052a04779be5e9b123e88350a246425fac99aa7/arrow/Redmi%20K40.md)|
